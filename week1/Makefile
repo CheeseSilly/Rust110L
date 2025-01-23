@@ -6,8 +6,8 @@ PROGS = $(C_PROGS) $(CXX_PROGS)
 
 # Choosing a compiler: We want LLVM (clang) so that we can use sanitizers
 # NOTE: if you are not running on myth, you may need to change this.
-CC = clang-10
-CXX = clang++-10
+CC = clang-14
+CXX = clang++-14
 
 # Flags for C compiler:
 CFLAGS = -g -O0 -Wall -Wextra -std=gnu99
