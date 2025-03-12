@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 CS110L
 =======
 # CS110L Spring 2020: Safety in Systems Programming
